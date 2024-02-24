@@ -28,12 +28,14 @@ class ItemView(APIView):
                                             "item_id": 1,
                                             "name": "Iphone15",
                                             "price": "100000.00",
+                                            'quantity':'0',
                                             "description": "Mobile of apple company 256GB rom ,16GB ram"
                                             },
                                             {
                                             "item_id": 2,
                                             "name": "MI",
                                             "price": "10000.00",
+                                            'quantity':'0',
                                             "description": ""
                                             }
                                         ],
